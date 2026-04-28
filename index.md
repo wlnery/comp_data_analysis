@@ -2,8 +2,6 @@
 # Do not edit the text between these lines!
 layout: default
 ---
-
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="comp_data_analysis/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 # EX09: Data Analysis for Continuous Improvement
@@ -36,6 +34,7 @@ Within my analysis I created a number of graphs to represent the data. I mainly 
 
 **Difficulty by Prior Programming Experience**
 <img src="/comp_data_analysis/static/imgs/image.png" alt="Difficulty by Prior Programming Experience" width="600"/>
+<br><br> 
 This box plot shows a steady decline in perceived difficulty as the students' experience increases, supporting my claim for more targeted exercises for students less skilled in programming.
 <br><br> 
 <br><br>
@@ -49,22 +48,25 @@ This histogram shows a breakdown of perceived difficulty only within students wi
 
 **Average Difficulty: Low Experience vs All Students**
 <img src="/comp_data_analysis/static/imgs/image-2.png" alt="Average Difficulty: Low Experience vs All Students" width="600"/>
+<br><br> 
 This histogram directly compares students with little to no experience and the rest of the class, showing that the students with no experience have a harder time than the entire rest of the class averaged.
 <br><br> 
 <br><br>
 
 **Understanding by Frequency of Creating Own Examples**
 <img src="/comp_data_analysis/static/imgs/image-3.png" alt="Understanding by Frequency of Creating Own Examples" width="600"/>
+<br><br> 
 This line plot shows the steady increase of students' understanding with the more they create their own code examples as a study technique. This suggests that this sort of repetition and creativity may yield higher comprehension levels.
 <br><br> 
 <br><br>
 
 **Understanding vs Programming Effectiveness**
 <img src="/comp_data_analysis/static/imgs/image-4.png" alt="Understanding vs Programming Effectiveness" width="600"/>
+<br><br> 
 Finally, this bar plot shows a link between students' understanding and their perceived effectiveness of the programming exercises. This shows that students who find the programming exercises more helpful generally feel that they understand the content on a deeper level.
 <br><br> 
 <br><br>
- 
+
 ### Part 1.5: Conclusion
  
 I believe my data confirms my idea, that more repetition on the basic concepts would benefit students, particularly those new to programming. We can see there is a noticeable increase in difficulty, as experience decreases. While this is unsurprising, I think it is most helpful to cater to these students who have no real programming experience since this is only an intro class. It's also interesting to note that the students' perceived understanding of the course material generally went up as their perceived benefit from the programming assignments did too. While this could just be correlated to the motivation a student has for the topic, I think there is something to be said for the benefit of these assignments. We see a similar curve as well on the "Understanding by Frequency of Creating Own Examples" graph, which demonstrates that as students create more of their own examples of the code concepts, they gain a better understanding of the overall material. All things considered, I think the case can certainly be made that a greater degree of repetition, particularly self guided repetition, would yield better understanding levels, especially with new programmers. 
