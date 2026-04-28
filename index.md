@@ -29,35 +29,41 @@ My PID Number: 730742394
 2. This idea is more valuable than the others brainstormed because: I think idea #5 is the most valuable and interesting to do further research on. I can analyze the degree of difficulty students experience based on experience level and since this survey was given prior to the course delving into slightly more conceptual topics, the data will be directly reflecting the struggle (or lack of) students face with foundational concepts. 
 
 ### Part 1.4: Analysis
- 
+ <br><br>
 Within my analysis I created a number of graphs to represent the data. I mainly focused on quantifying the difficulty of the class and relating that to the experience level of the student. I also explored how understanding was correlated with the frequency by which students created their own example code (practicing repetition) and how they rated the benefit of the programming exercises. 
- 
- 
+<br><br>
+<br><br>
+
 **Difficulty by Prior Programming Experience**
 <img src="/comp_data_analysis/static/imgs/image.png" alt="Difficulty by Prior Programming Experience" width="600"/>
 This box plot shows a steady decline in perceived difficulty as the students' experience increases, supporting my claim for more targeted exercises for students less skilled in programming.
- 
- 
+<br><br> 
+<br><br>
+
 **Difficulty Scores for only Students with <1 Month Experience**
 <img src="/comp_data_analysis/static/imgs/image-1.png" alt="Difficulty Scores for only Students with less than one month experience" width="600"/>
- 
+<br><br> 
 This histogram shows a breakdown of perceived difficulty only within students with less than a month of programming experience. The bulk of students are rating the class at a level 5, which, while not incredibly hard, does suggest they are struggling to some degree.
- 
- 
+<br><br> 
+<br><br>
+
 **Average Difficulty: Low Experience vs All Students**
 <img src="/comp_data_analysis/static/imgs/image-2.png" alt="Average Difficulty: Low Experience vs All Students" width="600"/>
 This histogram directly compares students with little to no experience and the rest of the class, showing that the students with no experience have a harder time than the entire rest of the class averaged.
- 
- 
+<br><br> 
+<br><br>
+
 **Understanding by Frequency of Creating Own Examples**
 <img src="/comp_data_analysis/static/imgs/image-3.png" alt="Understanding by Frequency of Creating Own Examples" width="600"/>
 This line plot shows the steady increase of students' understanding with the more they create their own code examples as a study technique. This suggests that this sort of repetition and creativity may yield higher comprehension levels.
- 
- 
+<br><br> 
+<br><br>
+
 **Understanding vs Programming Effectiveness**
 <img src="/comp_data_analysis/static/imgs/image-4.png" alt="Understanding vs Programming Effectiveness" width="600"/>
 Finally, this bar plot shows a link between students' understanding and their perceived effectiveness of the programming exercises. This shows that students who find the programming exercises more helpful generally feel that they understand the content on a deeper level.
- 
+<br><br> 
+<br><br>
  
 ### Part 1.5: Conclusion
  
