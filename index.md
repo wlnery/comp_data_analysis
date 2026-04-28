@@ -30,11 +30,11 @@ My PID Number: 730742394
 
 ### Part 1.4: Analysis
 
-Within my analysis I created a number of graphs to represent the data. I mainly foccused on quantifying the difficulty of the class and relating that to the experience level of the student. I also explored how understanding was correlated with the frequency by which students created their own example code (practicing repetition) and how they rated the benefit of the programming exercises. 
+Within my analysis I created a number of graphs to represent the data. I mainly focused on quantifying the difficulty of the class and relating that to the experience level of the student. I also explored how understanding was correlated with the frequency by which students created their own example code (practicing repetition) and how they rated the benefit of the programming exercises. 
 
 **Difficulty by Prior Programming Experience**
 ![alt text](/static/imgs/image.png)
-This box plot shows a steady decline in perceived difficulty as the students experience increases, supporting my claim for more targetted exercises for students less skilled in programming.
+This box plot shows a steady decline in perceived difficulty as the students' experience increases, supporting my claim for more targeted exercises for students less skilled in programming.
 **Difficulty Scores for only Students with <1 Month Experience**
 ![alt text](/static/imgs/image-1.png)
 This histogram shows a breakdown of perceived difficulty only within students with less than a month of programming experience. The bulk of students are rating the class at a level 5, which, while not incredibly hard, does suggest they are struggling to some degree.
@@ -43,10 +43,11 @@ This histogram shows a breakdown of perceived difficulty only within students wi
 This histogram directly compares students with little to no experience and the rest of the class, showing that the students with no experience have a harder time than the entire rest of the class averaged.
 **Understanding by Frequency of Creating Own Examples**
 ![alt text](/static/imgs/image-3.png)
-This line plot shows the steady increase of students understanding with the more they create their own code examples as a study technique. This suggests that this sort of repetition and creativity may yield higher comprehension levels.
+This line plot shows the steady increase of students' understanding with the more they create their own code examples as a study technique. This suggests that this sort of repetition and creativity may yield higher comprehension levels.
 **Understanding vs Programming Effectiveness**
 ![alt text](/static/imgs/image-4.png)
-Finally, this bar plot shows a link between students understanding and their perceived effectiveness of the programming exercises. This shows that students who find the programming exercises more helpful generally feel that they understand the content on a deeper level.
+Finally, this bar plot shows a link between students' understanding and their perceived effectiveness of the programming exercises. This shows that students who find the programming exercises more helpful generally feel that they understand the content on a deeper level.
+
 
 ### Part 1.5: Conclusion
 
