@@ -10,7 +10,6 @@ layout: default
 My PID Number: 730742394
 
 ### Part 1.1: Creative Ideation
-
 1. The course should spend less time on the basics and more time of larger conceptual ideas like nodes because it will be more helpful for the large amount of students who come in with a rough understanding of code/technology/logic but lack the deeper technical understanding
 2. The course should introduce a couple more handwritten memory diagram assignments on Gradescope because it would greater prepare the students for the test material
 3. The course should begin in a more intensive way (similar to point 1) because it will give students more time working on the more advanced concepts prior to the drop deadline, which allows for better planning and potentially garners more interest in the beginning of the course
@@ -23,11 +22,26 @@ My PID Number: 730742394
 
 2. Suggestion for how to collect data to support this idea in the future: For a numeric scale-based option, we could add in questions like, "I would find a class focused on software engineering career pathways and guidance (rate 1-10)," or, "I am experiencing confusion about my future and career path." Alternatively, we could have a multiple choice question in which students could select experiences they would find interesting, including: guest speakers in the industry, presentations on interesting projects (maybe from UNC grads?), a class on how to approach AI (is it staying? Will anyone have a job in 5 years? All the existential unanswerable questions!), etc. Lastly, we could simply just add an open ended question: "What experiences could we add to this class that would be interesting?", and maybe some people would echo my suggestion, although that is a lot harder to quantify.  
 
-### Part 1.3: Choosing Your Analysis
+### Part 1.3: Choosing My Analysis
 
 1. Idea to analyze with available data: I think either idea #2 or #5 have sufficient data to analyze and build a case from. They both explore concepts that are quantifiable and are focussed on difficulty of the course content which is surveyed in columns such as: difficulty, understanding, and X_effective.
 
 2. This idea is more valuable than the others brainstormed because: I think idea #5 is the most valuable and interesting to do further research on. I can analyze the degree of difficulty students experience based on experience level and since this survey was given prior to the course delving into slightly more conceptual topics, the data will be directly reflecting the struggle (or lack of) students face with foundational concepts. 
+
+### Part 1.4: Analysis
+
+Within my analysis I created a number of graphs to represent the data. I mainly foccused on quantifying the difficulty of the class and relating that to the experience level of the student. I also explored how understanding was correlated with the frequency by which students created their own example code (practicing repetition) and how they rated the benefit of the programming exercises. 
+
+**Difficulty by Prior Programming Experience**
+![alt text](/static/imgs/image.png)
+**Difficulty Scores for only Students with <1 Month Experience**
+![alt text](/static/imgs/image-1.png)
+**Average Difficulty: Low Experience vs All Students**
+![alt text](/static/imgs/image-2.png)
+**Understanding by Frequency of Creating Own Examples**
+![alt text](/static/imgs/image-3.png)
+**Understanding vs Programming Effectiveness**
+![alt text](/static/imgs/image-4.png)
 
 ### Part 1.5: Conclusion
 
