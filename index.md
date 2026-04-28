@@ -2,9 +2,12 @@
 # Do not edit the text between these lines!
 layout: default
 ---
-NAME: William Nery
+NAME: Will Nery
+<br><br>
 PID: 730742394
+<br><br>
 EMAIL: nery@unc.edu
+<br><br>
 GITHUB: [@wlnery](https://github.com/wlnery)
 
 ### Part 1.1: Creative Ideation
